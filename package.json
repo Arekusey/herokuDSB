@@ -1,0 +1,25 @@
+{
+  "name": "dsbh",
+  "version": "1.0.0",
+  "description": "\"# herokuDSB\" \r \"# herokuDSB\"",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arekusey/herokuDSB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arekusey/herokuDSB/issues"
+  },
+  "homepage": "https://github.com/Arekusey/herokuDSB#readme"
+}
