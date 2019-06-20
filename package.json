@@ -1,25 +1,17 @@
 {
-  "name": "dsbh",
+  "name": "dsb",
   "version": "1.0.0",
-  "description": "\"# herokuDSB\" \r \"# herokuDSB\"",
-  "main": "index.js",
+  "description": "",
+  "main": "bot.js",
   "dependencies": {
-    "discord.js": "^11.5.1",
-    "dotenv": "^8.0.0",
-    "nodemon": "^1.19.1"
+    "discord.js": "^11.4.2",
+    "strftime": "^0.10.0",
+    "superagent": "^5.0.4"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Arekusey/herokuDSB.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Arekusey/herokuDSB/issues"
-  },
-  "homepage": "https://github.com/Arekusey/herokuDSB#readme"
+  "author": "Lesha",
+  "license": "ISC"
 }
